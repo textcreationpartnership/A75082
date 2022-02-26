@@ -1,0 +1,371 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The account audited, or the date of the resurrection of the witnesses, pretended to be demonstrated by M. Cary a minister. Examined by a Friend to the Truth and Ministry.</title>
+            <author>Friend to the truth and ministry.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75082</idno>
+            <idno type="STC">Wing A169</idno>
+            <idno type="STC">Thomason E550_21</idno>
+            <idno type="STC">ESTC R205652</idno>
+            <idno type="EEBO-CITATION">99864970</idno>
+            <idno type="PROQUEST">99864970</idno>
+            <idno type="VID">117203</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75082)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117203)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E550[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The account audited, or the date of the resurrection of the witnesses, pretended to be demonstrated by M. Cary a minister. Examined by a Friend to the Truth and Ministry.</title>
+                  <author>Friend to the truth and ministry.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.R. &amp; E.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the yeere 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cary, Mary.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117203:1" rendition="simple:additions"/>
+            <p>THE ACCOUNT AUDITED, Or the Date of the Reſurrection OF THE WITNESSES, Pretended to be demonſtrated by <hi>M. Cary</hi> a Miniſter.</p>
+            <p>Examined by a Friend to the Truth and Miniſtry.</p>
+            <q>
+               <bibl>LUKE 21.36.</bibl>
+               <p>Watch ye, and pray alwayes, that ye may be accounted worthy to eſcape all theſe things that ſhall come to paſſe, and to ſtand before the Son of man.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T.R.</hi> &amp; <hi>E. M.</hi> in the yeere 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117203:2"/>
+            <pb n="1" facs="tcp:117203:2"/>
+            <head>
+               <hi>The Account Audited,</hi> OR The date of the RESURRECTION of the WITNESSES pretended to be demon<g ref="char:EOLhyphen"/>ſtrated by <hi>M. Cary</hi> a Miniſter.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I firſt ſaw the <hi>Title Page</hi> of <hi>M. Cary's</hi> Book poſted up, profeſſing a clear demonſtration, that the <hi>Reſurrection of the Witneſſes,</hi> ſpoken of in <hi>Revel.</hi> 11. was accompliſht; I was glad to ſee a Treatiſe of that nature come forth: partly as ſuppoſing that the Lord might have brought to publike view, ſome more ſatisfactory Expoſition of that difficult Scripture, then had yet ſeen the light; but chiefly as conceiving ſome hopes, that per<g ref="char:EOLhyphen"/>adventure the ſad ſeaſon might be already paſt for the ſlaying of the <hi>Witneſſes;</hi> the neer approach whereof is much feared by many of the Saints. And as naturally men are apt to believe things to be as they deſire to have them; ſo did <hi>I</hi> finde more willingneſſe in my mind, to diſpoſe me to cloſe with the Au<g ref="char:EOLhyphen"/>thors judgement, then I found reaſon in that Book to perſwade me to it; for when that Treatiſe came to my hands, I read it o<g ref="char:EOLhyphen"/>ver with much greedineſſe and expectation, till I came to that place, where the commencement with the expiring of the time for the <hi>Witneſſes propheſying in ſack-cloth,</hi> is ſtated, which if right<g ref="char:EOLhyphen"/>ly placed, would have been the Key to unlock the Controver<g ref="char:EOLhyphen"/>ſies of the Text; but being miſplaced ſerv'd only to check my expectation; for, if ſpecious alluſions (of which the Au hor is not deſtitute) could have cleared the text without the right clue of Chronology, the taske had been long ſince performed by divers others; who not only with as good colour for the phraſe of the context, but alſo with much mor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ex<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctneſſe for the Hiſtoricall application, have publiſhed their conjectures up<g ref="char:EOLhyphen"/>on it.</p>
+            <pb n="2" facs="tcp:117203:3"/>
+            <p>This Author profeſſes to go a way different from all others: for in the Epiſtle to the Reader I finde theſe words, <hi>That which I chiefly aime at in this diſcourſe, is that which is not yet printed by a<g ref="char:EOLhyphen"/>ny other, and whether any other have yet obſerved it, I know not.</hi> And yet ſo confident is this Female-Miniſter <hi>M. Cary</hi> in her ſole in<g ref="char:EOLhyphen"/>vention; as if there might not be ſo much as roome left to doubt whether ſhe had performed her undertaking; for thus I finde in the Poſt-ſcript, that the <hi>Witneſſes</hi> are indeed ſlaine, and riſen, and do ſtand upon their feet, is altogether unqueſtionable, becauſe (as appears by the foregoing diſcourſe) this propheſie of the ſlaying of the Witneſſes and of their riſing, &amp;c. is in every parti<g ref="char:EOLhyphen"/>cular jota and tittle of it moſt exactly accompliſhed; the like confidence ſhe diſcovers in the Epiſtle Dedicatory, and in the Preamble, and in divers other paſſages of the Book. And truly it is pity that a woman of her parts ſhould build with ſo much confidence upon ſo rotten a foundation; the diſcovery whereof is the drift of theſe following lines.</p>
+            <p>As there are many things in that Book which are good, and of which a Chriſtian improvement may be made; ſo are there divers paſſages, both in her expoſition, and alſo in her appli<g ref="char:EOLhyphen"/>cation, which are liable to juſt exception; yet that part con<g ref="char:EOLhyphen"/>cerning the time of the Reſurrection of the Witneſſes, is that which I purpoſely choſe to debate, 1. Becauſe the Authors maine confidence lies there. 2. Becauſe moſt of the other mi<g ref="char:EOLhyphen"/>ſtakes in that Treatiſe will ſtand or fall with the date of the Re<g ref="char:EOLhyphen"/>ſurrection, as being either ſtrained to comply with it, or drawn by inference from it. 3. Becauſe the ordinary Reader may be moſt apt to paſſe over thoſe paſſages of the Book without ſearch, 1. through credulity, not ſuſpecting what the Author obtrudes for granted; or, 2. for want of skill in ciphring, not being a<g ref="char:EOLhyphen"/>ble to caſt up the Accompts of years and dayes mentioned by the Author; or, 3. through want of Hiſtory, not being fur<g ref="char:EOLhyphen"/>niſht with ſuch Books as handle the matters of fact, which the Author relates; which things, as I have diligently ſearcht into for my own ſatisfaction, concerning the time ſtated in <hi>M. Ca<g ref="char:EOLhyphen"/>ry</hi>'s Book: ſo I judged it my duty, having ſeen the Authors mi<g ref="char:EOLhyphen"/>ſtakes in that point, to publiſh briefly ſomewhat to keep others from being carried away in thoſe miſtakes.</p>
+            <p>That the way of my proceeding may be the more clear, I ſhall deſire the Chriſtian Reader to take notice of thus much,
+<pb n="3" facs="tcp:117203:3"/>
+the time of the <hi>Reſurrection of the Witneſſes</hi> which is the matter in difference between us, is that of which we read, <hi>Revel.</hi> 11. <hi>ver.</hi> 11. in theſe words, <hi>And after three dayes and an half, the Spirit of life from God intred into them, and they ſtood upon their feet. M. Cary</hi> in her expo<g ref="char:EOLhyphen"/>ſition upon this verſe in the 100. page of her Book writes thus, <hi>The fifth day of April</hi> 1645. <hi>did the Witneſſes, the Saints ſtand upon their feet, having a Spirit of life from God put upon them.</hi> This is the Au<g ref="char:EOLhyphen"/>thors aſſertion, whoſe ground I ſhall recite and examine. Only by the way; if any ſhould ask, what is meant by the two Witneſſes? <hi>Wilſon</hi> in his Dictionary for the <hi>Revelation,</hi> reſolvs it in theſe words <hi>[two Witneſſes] a competent number of faithful Preachers, which teſtifie againſt the errors of Antichriſt, and for the Doctrine of Chriſt;</hi> thus he; and this, ſo farre as I can learne, is the moſt received interpretation; for my own part, though I will not now engage to determine what ſort of perſons the Witneſſes are, yet I ſhall acquaint the Reader with this, that by <hi>Patrick Forbes,</hi> in his Commentary upon the <hi>Reve<g ref="char:EOLhyphen"/>lations,</hi> page 88. is hinted to us, as alſo it is by others (though <hi>M. Cary</hi> takes no notice of it; and indeed it makes not for her purpoſe) viz. <hi>that</hi> Elias <hi>and</hi> Moſes (<hi>thoſe two which appeared with Chriſt at his transfiguration,</hi> Matth. 17.) <hi>are held forth as the types of the two Witneſ<g ref="char:EOLhyphen"/>ſes,</hi> and thus much is intimated to us in the deſcription of the Wit<g ref="char:EOLhyphen"/>neſſes in <hi>Revel.</hi> 11. <hi>v.</hi> 5, 6. which <hi>I</hi> ſhall thus make out to you, by comparing Scripture with Scripture. 1. <hi>Elias</hi> is hinted in <hi>verſe</hi> 5. in theſe words, <hi>If any man will hurt them, fire proceedeth out of their mouth, and devoureth their enemies; and if any man will hurt them, he muſt in this manner be kild:</hi> This deſcription hath reference to <hi>Elias</hi> (who alſo is called <hi>Elijah,</hi> thus much is clear from 2 <hi>Kings</hi> 1.10. <hi>And</hi> Elijah <hi>anſwered and ſaid to the Captaine of fifty, if I be a man of God, then let fire come down from heaven, and conſume thee and thy fifty; and there came down fire from heaven, and conſumed him and his fifty, Luke</hi> 9.54. and when his Diſciples <hi>James</hi> and <hi>John</hi> ſaw this, they ſaid, <hi>Lord, wilt thou that we command fire to come downe from heaven, and conſume them, even as</hi> Elias <hi>did?</hi>
+            </p>
+            <p>
+               <hi>Elias</hi> alſo is hinted in <hi>ver.</hi> 6. in theſe words, <hi>theſe have power to ſhut heaven, that is raine not in the dayes of their propheſie;</hi> that this deſcription hath reference to <hi>Elijah,</hi> will be eaſily gathered from theſe texts, 1 <hi>Kings</hi> 17.1. Elijah <hi>the Tiſhbits, who was of the inhabi<g ref="char:EOLhyphen"/>tants of Gilead, ſaid unto</hi> Ahab, <hi>as the Lord God of Iſrael liveth, before whom I ſtand, there ſhall not be dew nor raine theſe years, but according to my words.</hi> James 5.17. Elias <hi>was a man ſubject to like paſſions as we
+<pb n="4" facs="tcp:117203:4"/>
+are, and he prayed earneſtly that it might not raine, and it rained not in the earth for the ſpace of three yeers and ſix months.</hi>
+            </p>
+            <p n="2">2. <hi>Moſes</hi> is hinted in the following part of the 6. <hi>verſe</hi> in theſe words, <hi>and have power over waters to turne them to blood;</hi> that this is ſpoken with reference to <hi>Moſes</hi> is cleare from <hi>Exodus</hi> 7.17. <hi>Be<g ref="char:EOLhyphen"/>hold,</hi> I <hi>will ſmite with the rod that is in my hand, upon the waters which are in the river, and they ſhall be turned to blood,</hi> Exod. 17.5. <hi>the Lord ſaid to</hi> Moſes, <hi>go on before the people, and take with thee of the Elders of Iſrael; and thy rod wherewith thou ſmoteſt the river, take in thy hand.</hi>
+            </p>
+            <p>
+               <hi>Moſes</hi> alſo is hinted in the next expreſſion of the 6. <hi>verſe,</hi> in theſe words, <hi>and to ſmite the earth with all plagues;</hi> that this is ſpoken with reference to <hi>Moſes,</hi> is cleer from <hi>Deut.</hi> 34.10, 11. <hi>There aroſe not a Prophet ſince in Iſrael like unto</hi> Moſes, <hi>whom the Lord knew face to face, in all the ſignes and the wonders which the Lord ſent him to do in the land of</hi> Egypt <hi>to</hi> Pharaoh, <hi>and to all his ſervants, and to all his land.</hi> The variety of Plagues wherwith <hi>Moſes</hi> ſmote the earth, is more at large declared in the Hiſtory in <hi>Exod.</hi> to which I refer the Reader.</p>
+            <p>And now I ſhall give you the account, which <hi>M. Cary</hi> laies down to make good her opinion, that on the fifth of <hi>April</hi> 1645. was the day of the Reſurrection of the Witneſſes: which, that I may deale fairly both with the Author and the Reader, take thus at large in her own words.</p>
+            <p>
+               <hi>Page</hi> 81. and 82. <hi>that term of time which the Beaſt was to continue, and the Saints to be trodden under foot, and to propheſie in ſeack-cloth, is a thouſand two hundred and threeſcore yeers as appears</hi> pag. 62. <hi>Now this</hi> 1260 <hi>yeeres, being added to the yeere wherein the beaſt received his deviliſh power, and ſeat, and great authority, in the reigne of</hi> Phocas <hi>the Emperour; which was, as ſay Hiſtorians, in the year</hi> 404. I <hi>ſay, adding to this</hi> 1260. <hi>it makes up</hi> 1664. <hi>and this yeere</hi> 1664. <hi>ſhould be the yeere wherein the Witneſſes ſhould finiſh their giving teſtimony, clothed in ſack<g ref="char:EOLhyphen"/>cloth: if this</hi> 1260. <hi>yeers ſhould be computed according to the rule of A<g ref="char:EOLhyphen"/>ſtronomers, allowing</hi> 365. <hi>dayes to a yeer, and to every fourth yeer adding a day more: but we finde that the holy Ghoſt in this propheſie, not obſer<g ref="char:EOLhyphen"/>ving that rule, doth allow but</hi> 360. <hi>dayes to a yeere, and according to that rule</hi> 1260. <hi>dayes to three yeers and an half, and therefore in computing the time of the Witneſſes, propheſying in ſackcloth, we are to obſerve the rule which the holy Ghoſt here laies down, to allow</hi> 360. <hi>dayes to a yeer, and ſo the time of the Witneſſes propheſying in ſackcloth, is to expire eighteen yeers and almoſt an half, ſooner then as by the other account, and ſo the be<g ref="char:EOLhyphen"/>ginning of the yeer</hi> 1645. <hi>was the time, &amp;c.</hi>
+            </p>
+            <pb n="5" facs="tcp:117203:4"/>
+            <p>
+               <hi>And page</hi> 98. <hi>and</hi> 99. <hi>on the</hi> 23. <hi>day of</hi> October 1641. <hi>did the beaſt begin the war in</hi> Ireland, <hi>and he continued overcoming the Witneſſes, the Saints of Jeſus Chriſt in</hi> Ireland <hi>and in</hi> England, <hi>untill the fifth day of</hi> April. 1645. <hi>and from the</hi> 23. <hi>of</hi> October 1641. <hi>unto the fifth of</hi> A<g ref="char:EOLhyphen"/>pril 1645. <hi>there is juſt a thouſand two hundred and ſixty dayes; which ac<g ref="char:EOLhyphen"/>cording to the Scripture account, (though not according to the heathen account) is three yeers and a half compleat: and when this three yeers and a half were expired; which was I ſay, on the fifth of</hi> April 1645. <hi>then was the Reſurrection of the Witneſſes, for they having lain dead for three yeers and a half before; then the Spirit of life from God entred into them: and the yeer</hi> 1645. <hi>as it is the yeer wherein the Witneſſes were raiſed from the dead, ſo it is the yeer wherein the terme of time in which they were to propheſie in ſackcloth, and to be trodden under foot was to expire, and the yeer alſo wherein the prevailing power of the Beaſt over the Saints was to expire, as is made evident in the opening of the</hi> 2 verſe <hi>page</hi> 60. <hi>&amp;c. Now that on the fifth day of</hi> April 1645. <hi>the Saints, Witneſſes, and Servants of Jeſus Chriſt were raiſed up, and that then a Spirit of life from God entred into them, appears thus: on the fifth day of</hi> April 1645 <hi>the Parliaments Army, who had ſtood for the defence of the Saints againſt the Beaſt, and had been before that time exceedingly overcome, and were brought into a very low condition at that time, being new modelled, and having a great many precious Saints in it, both eminent Commanders, and inferior Officers and common Souldiers; and being then put under the conduct of Sir</hi> Thomas Fairfax; <hi>they then began to march againſt the enemy, and then had a Spirit of life from God that entred into them,</hi> &amp;c.</p>
+            <p>Upon this account the Author is confident, that her new tenet is ſufficiently demonſtrated: to which I enter my diſſent; and now come to ſhow you upon what grounds I am unſatisfied with what I have tranſcribed out of that Book, and ſhall deſire the ingenuous Reader to weigh the following exceptions which I ſhall lay down, according to the order wherein the things I except againſt are laid downe.</p>
+            <div n="1" type="exception">
+               <head>1. <hi>Exception.</hi>
+               </head>
+               <p>The Author tels us <hi>page</hi> 81 and 82. <hi>That Hiſtorians ſay, the yeere</hi> 40<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>was the yeere wherein the Beaſt received his deviliſh power and ſeat in the reigne of</hi> Phocas <hi>the Emperour.</hi> This being the firſt root of the Account, deſerves throughly to be examined, as being of greateſt influence into the preſent controverſie. I ſhall therefore debate it fully, wherein we might have made a more ſhort cut; if the Author had told us who are thoſe Hiſtorians, and where they ſay ſo. I have
+<pb n="6" facs="tcp:117203:5"/>
+upon this occaſion peruſed variety of Hiſtorians: but all that I have met with do make the Hiſtory of <hi>Phocas</hi> at leaſt 200. y. later.</p>
+               <p>In the fourth Book of ancient Hiſtory, which out of ſeveral Au<g ref="char:EOLhyphen"/>thors treats of the Roman Emperours for above 700. yeeres after Chriſt, I finde but one Emperour <hi>Phocas</hi> mentioned, and no other of that or the like name; &amp; concerning him I there read thus: <hi>That</hi> Mauricius <hi>the Emperour being by dreame forewarned of a conſpiracie a<g ref="char:EOLhyphen"/>gainſt him by</hi> Phocas <hi>a Commander of ſome forces in the borders of</hi> Sarma<g ref="char:EOLunhyphen"/>tia, <hi>this</hi> Mauricius <hi>ſent for his ſon in Law</hi> Philip, <hi>and acquainted him therewith:</hi> Philip <hi>wondring at it, told the Emperour that he knew the man, namely</hi> Phocas, <hi>to be one that durſt not attempt ſuch a deſigne; as being too fearfull, though wicked enough to do it; to which</hi> Mauricius <hi>replyed, that he had the more reaſon to take heed of him, becauſe thoſe which are fearfull, when once they aſſay wicked enterpriſes, know not how to give over, but act with the more cruelty:</hi> &amp; ſo it proved in the event; for this <hi>Phocas</hi> murdered the Emperour <hi>Mauricius</hi> and his three ſons, and then being choſen Emperour by that wicked Army whoſe lea<g ref="char:EOLhyphen"/>der he was, did at the inſtance of Pope <hi>Boniface</hi> the third, appoint the ſeat of <hi>Rome</hi> to be the head of all Churches.</p>
+               <p>
+                  <hi>Szegedin</hi> in his <hi>Looking-Glaſſe</hi> of the Popes, writes thus. <hi>Boni<g ref="char:EOLhyphen"/>face the third, was by</hi> Phocas <hi>the Emperour (who was an adulterer, parricide, and Tyrant) confirmed chief and ſupreme over all Biſhops.</hi>
+               </p>
+               <p>Doctor <hi>Favour</hi> in his book of antiquity, <hi>p.</hi> 436. writes thus. <hi>This Myſtery of iniquity, in the dayes of</hi> Phocas <hi>the Emperour that had murthered his Maſter</hi> Mauricius, <hi>and uſurped his crown, began to work more ſtrongly. For</hi> Boniface (<hi>Biſhop of</hi> Rome) <hi>obtained of</hi> Phocas, <hi>that the Church of</hi> Rome <hi>ſhould be the head of all Churches.</hi>
+               </p>
+               <p>This is the ſubſtance of what Hiſtorians ſpeak concerning the preeminence of the <hi>Roman</hi> Biſhops obtained in the reigne of <hi>Pho<g ref="char:EOLhyphen"/>cas,</hi> and in this we agree, but the difference lies concerning the time, which <hi>M. Cary</hi> affirms to be in the yeere 404. and I finde to be in the yeere 604. or rather a little after; for though <hi>Phocas</hi> might have begun his reign in 604. yet the donation of the ſupremacy to <hi>Boniface,</hi> might well be after that yeere, which I the rather aſſent to, becauſe our induſtrious Countrey man <hi>Barns</hi> the Martyr tels us in his Treatiſe of the lives of the Popes, that <hi>Sabinian</hi> predeceſ<g ref="char:EOLhyphen"/>ſour to <hi>Boniface,</hi> lived under <hi>Phocas</hi> the Emperour, and for this he cites <hi>Platina</hi> and <hi>Volaterranus;</hi> and <hi>Pareus</hi> alſo in his <hi>Marrow of Ec<g ref="char:EOLhyphen"/>cleſiaſticall Hiſtory,</hi> makes <hi>Phocas's</hi> grant of the ſupremacy to <hi>Boni<g ref="char:EOLhyphen"/>face</hi> the third, to be after the firſt yeer of his Empire.</p>
+               <pb n="7" facs="tcp:117203:5"/>
+               <p>I ſhall now for the ſatisfaction of the Reader, ſet down what <hi>I</hi> have met with in other Authors, word for word, with directions to the pla<g ref="char:EOLhyphen"/>ces where they may turn to them, which take as followes.</p>
+               <p>In the ſtate of the Church, tranſlated out of French into Engliſh, <hi>page</hi> 183. <q>In the yeer 604. <hi>Phocas</hi> after he had wickedly ſlain his Ma<g ref="char:EOLhyphen"/>ſter, was choſen by the unlucky Army whereof he had charge; a very ſlave of covetouſneſſe, who handled ſecret matters with Courtiers af<g ref="char:EOLhyphen"/>ter the manner of the Perſians, and ſold the offices of Magiſtrates and judgements, dearly loved ſuch as tormented the people by rapine and extortion: this is he who firſt ordain'd that <hi>Rome</hi> ſhould be the chief of all Churches.</q>
+               </p>
+               <p>In the Treatiſe of the lives of the Popes written in Spaniſh by <hi>Cyprian Valera,</hi> and tranſlated into Engliſh, <hi>pag.</hi> 34. <q>In the 605. year died <hi>Sa<g ref="char:EOLhyphen"/>binianus</hi> [whoſe ſucceſſor] <hi>Boniface</hi> the third being Patriach of <hi>Rome,</hi> was made Pope by means of <hi>Phocas</hi> the Emperour, who was an adul<g ref="char:EOLhyphen"/>terer, murtherer, and tyrant; a murtherer I call him, for that to make himſelfe Emperor (as he did) he murthered <hi>Mauricius</hi> his Lord and Chriſtian Emperor.</q>
+               </p>
+               <p>In <hi>Morneys Myſtery of Iniquity,</hi> pag. 117. <q>
+                     <hi>Boniface</hi> the third in the yeer 605. to effect that which his predeceſſors had projected, took his advantage, ſeeing the Emperour <hi>Phocas</hi> on the one ſide diſpleaſed with <hi>Cyriacus</hi> Patriarch of <hi>Conſtantinople,</hi> becauſe he would not ap<g ref="char:EOLhyphen"/>prove of his murders; and on the other, jealous the hatred of his deal<g ref="char:EOLhyphen"/>ings might happily cauſe <hi>Italy</hi> to revolt from under him: and there<g ref="char:EOLhyphen"/>upon he asked, and by the proffers which he made of his good ſervice obtained of him, that the Church of <hi>Rome</hi> ſhould thence forward be the head of all other Churches, and the Biſhop of <hi>Rome</hi> ſhould be called the Soveraigne and Univerſall Biſhop.</q>
+               </p>
+               <p>In <hi>Heylins Microcoſmus</hi> the fifth Edition, <hi>pag</hi> 179. <q>
+                     <hi>Phocas</hi> having killed the Emperour <hi>Mauricius,</hi> his wife and children <hi>An.</hi> 604. to aſ<g ref="char:EOLhyphen"/>ſure himſelf of <hi>Italy</hi> ready to revolt from ſo barbarous a tyrant, made <hi>Boniface</hi> the third Univerſall Biſhop, and head of the Church; be<g ref="char:EOLhyphen"/>fore this time the Biſhops of <hi>Conſtantinople</hi> and <hi>Ravenna,</hi> did often diſpute with the Biſhops of <hi>Rome</hi> for ſuperiority; the ſeat of Religion commonly following the ſeat of the Empire, and the Biſhop of <hi>Con<g ref="char:EOLhyphen"/>ſtantinople</hi> prevailed ſo far, that with the permiſſion of <hi>Mauricius</hi> the Emperour, he took upon him the title of Univerſall Patriarch.</q>
+               </p>
+               <p>As for the yeer 404. which <hi>M. Cary</hi> builds upon for the Hiſtory of <hi>Phocas</hi> the Emperour, and his donation of the ſupremacy to the Church of <hi>Rome,</hi> I ſhall ſay this farther; that it may appear to any that have op<g ref="char:EOLhyphen"/>portunity
+<pb n="8" facs="tcp:117203:6"/>
+to ſearch into Hiſtories; that there was no ſuch Emperour as <hi>Phocas,</hi> in or neere that time, but the Emperours at that time were (according to Hiſtorians) <hi>Arcadius</hi> and <hi>Honorias.</hi> To cleere this yet more fully, I ſhall give you a Catalogue of the Emperours as I finde it in <hi>Heylins Microcoſmus,</hi> Edition the firſt, <hi>pag.</hi> 88. <hi>Italy con<g ref="char:EOLhyphen"/>tinued a m mber of the Empire till the yeer</hi> 399. <hi>in which</hi> Theodoſius <hi>the great divided the Empire; to</hi> Arcadius <hi>his elder ſon he gave the Eaſtern, to</hi> Honorius <hi>the younger the Weſterne part of this Monarchy.</hi>
+               </p>
+               <list>
+                  <head>The Weſterne Emperors in the yeer</head>
+                  <item>399 <hi>Honorius.</hi>
+                  </item>
+                  <item>458 <hi>Severianus</hi>
+                  </item>
+                  <item>4<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5 <hi>Valentinianus.</hi>
+                  </item>
+                  <item>462 <hi>Anthemius</hi>
+                  </item>
+                  <item>454 <hi>Maximianus.</hi>
+                  </item>
+                  <item>467 <hi>Oreſtes</hi>
+                  </item>
+                  <item>473 <hi>Auguſtulus</hi> the laſt that ever kept his daily reſidence in <hi>Italy,</hi> a thing ominous, that <hi>Auguſtus</hi> ſhould eſtabliſh and <hi>Auguſtu<g ref="char:EOLhyphen"/>lus</hi> ruinate that ſpacious Monarchy.</item>
+               </list>
+               <list>
+                  <head>And <hi>pag.</hi> 219. the Conſtantinopolitan Emperours in the yeere</head>
+                  <item>399 <hi>Arcadius</hi>
+                  </item>
+                  <item>412 <hi>Theodoſius</hi> the 2<hi rend="sup">d</hi>
+                  </item>
+                  <item>454 <hi>Martianus</hi>
+                  </item>
+                  <item>461 <hi>Leo</hi>
+                  </item>
+                  <item>478 Zeno</item>
+                  <item>494 <hi>Anaſtaſius</hi>
+                  </item>
+                  <item>521 <hi>Juſtinus</hi>
+                  </item>
+                  <item>528 <hi>Juſtinianus</hi>
+                  </item>
+                  <item>566 <hi>Juſtinus</hi> the 2<hi rend="sup">d</hi>
+                  </item>
+                  <item>577 <hi>Tiberius</hi>
+                  </item>
+                  <item>584 <hi>Mauritius</hi>
+                  </item>
+                  <item>604 <hi>Phocas</hi> who made the Biſhops of <hi>Rome</hi> Popes, and heads of the Church.</item>
+               </list>
+               <p>As I have thus by a Liſt of the Roman Emperours proved, that <hi>Pho<g ref="char:EOLhyphen"/>cas</hi> his donation to <hi>Boniface</hi> the third could not be neer the y. 404. So I might in the next place ſhew the like by the Liſt of the Roman Biſh<g ref="char:EOLhyphen"/>ops; for <hi>Boniface</hi> the firſt of that name Biſhop of <hi>R me</hi> is placed by Hi<g ref="char:EOLhyphen"/>ſtorians after the yeer 404. and there were above twenty Biſhops of <hi>Rome</hi> ſucceſſively between <hi>Boniface</hi> the firſt and <hi>Boniface</hi> the third, as may appear by this Catalogue.</p>
+               <list>
+                  <item>
+                     <hi>Boniface</hi> the firſt</item>
+                  <item>1 <hi>Caeleſtinus</hi>
+                  </item>
+                  <item>2 <hi>Sixtus</hi> 3.</item>
+                  <item>3 <hi>Leo</hi>
+                  </item>
+                  <item>4 <hi>Hilarius</hi>
+                  </item>
+                  <item>5 <hi>Simplicius</hi>
+                  </item>
+                  <item>6 <hi>Foelix</hi> 3.</item>
+                  <item>7 <hi>G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>laſius</hi>
+                  </item>
+                  <item>8 <hi>Anaſtaſius</hi> 2</item>
+                  <item>9 <hi>Symmichus</hi>
+                  </item>
+                  <item>10 <hi>Hormiſda</hi>
+                  </item>
+                  <item>11 <hi>John</hi> 1</item>
+                  <item>12 <hi>Foelix</hi> 4</item>
+                  <item>13 <hi>Boniface</hi> the ſecond</item>
+                  <item>14 <hi>John</hi> 2</item>
+                  <item>15 <hi>Agapetus</hi>
+                  </item>
+                  <item>16 <hi>Sylverius</hi>
+                  </item>
+                  <item>17 <hi>Vigilius</hi>
+                  </item>
+                  <item>18 <hi>Pelagius</hi> 1</item>
+                  <item>19 <hi>John</hi> 3</item>
+                  <item>20 <hi>Benedict</hi>
+                  </item>
+                  <item>21 <hi>Pelagius</hi> 2</item>
+                  <item>22 <hi>Gregory</hi> the great</item>
+                  <item>23 <hi>Sabinianus</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>Boniface</hi> the third, in whoſe time <hi>Phocas</hi> gave the cheifdome to the Roman Seat.</p>
+               <p>Having thus abundantly diſcovered the groſſe Error, which is the foundation of <hi>M. Cary's</hi> reckoning; who pretends to calculate the <hi>Reſurrection of the Witneſſes</hi> to a very day; I ſhall leave it to the head
+<pb n="9" facs="tcp:117203:6"/>
+of prudence with the heart of charity to conſider, whence ſo groſſe a miſtake of 200 yeers could ariſe. I have caſt about in my thoughts to ſee how a miſtake of this nature could, in an Author of ſuch abilities, be interpreted more favorably then a wilfull miſreckoning; and two wayes I doe apprehend that poſſibly the miſtake might be en<g ref="char:EOLhyphen"/>tertained unawares. 1. Peradventure the Author might have read in ſome Hiſtory book, the yeer 404 miſprinted for 604. for miſprinting of one figure might happily fall out in ſome Copy pend of that ſub<g ref="char:EOLhyphen"/>ject; though I have not yet met with that miſprint in any one of thoſe Treatiſes, or in any of thoſe Editions, which I have ſought out and di<g ref="char:EOLhyphen"/>ligently compared on ſet Purpoſe. 2. Peradventure the Author might not have read the Hiſtory of <hi>Phocas;</hi> but only received it upon hear<g ref="char:EOLhyphen"/>ſay, and ſo ſhe might either have miſtook the Relator, or ſwallowed down the relators miſtake; and this later conjecture I look upon as the moſt probable in that it ſuits b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt with her own words; for ſhee doth not ſay, as hiſtorians write; but <hi>as ſay Hiſtorians.</hi> Thus have I given my Reader the beſt light I can, to furniſh his charity with a fa<g ref="char:EOLhyphen"/>vourable conſtruction of the foreſaid miſtake, which may in part excuſe the Authors credulity, but will not be able to juſtifie her confidence, nor her cauſe; for, the correcting of this miſtake, if the reſt of her account hold good, wil make the Reſurrection of the Witneſſes to fall out 200. yeers later then ſhe counts for; namely in the yeer 1845. and this ſhall ſuffice for my firſt and principall Exception.</p>
+            </div>
+            <div n="2" type="exception">
+               <head>2. <hi>Exception.</hi>
+               </head>
+               <p>The Author <hi>pag.</hi> 82. deducing from the aſtronomicall years, five dayes in a year, and one day every fourth yeer, for the ſpace of 1260. yeers, doth abate for it 18 yeers and almoſt in half: which if it be meane of aſtronomicall yeers (which are the yeers that ſhe doth ſubſtract) doth not amount to ſo much: for, five times 1260. dayes and 315. dayes put together, make but 6615, which is not 18. aſtronomicall yeers and a quarter, no nor half a quarter; for, it is but <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. dayes over the 18. yeers.</p>
+            </div>
+            <div n="3" type="exception">
+               <head>3. <hi>Exception.</hi>
+               </head>
+               <p>The Author <hi>pag.</hi> 82. from the yeer which in ordinary account is 1664 deducing 18. yeers and almoſt an half (for the difference betwixt the aſtronomical account, and the account which ſhe followes) tels us, that then the account will fall in the beginning of the yeer 1645. the falſe<g ref="char:EOLhyphen"/>hood whereof I ſhall thus diſcover: to the beginning of the yeer 1645. adde almoſt half a yeer, and it will be about the midſt of the yeer 1645. to which adde the 18 yeers, and it will be in the 1663. not in 1664. the deduction therfore of 18. y. and almoſt an half, though we ſhould begin
+<pb n="10" facs="tcp:117203:7"/>
+the deduction from the very firſt day of the yeer 1664. will make the ac<g ref="char:EOLhyphen"/>count to fall out after the midſt of the yeer 1645. which is about halfe a yeer later then <hi>M. Cary</hi> counts.</p>
+            </div>
+            <div n="4" type="exception">
+               <head>4. <hi>Exception.</hi>
+               </head>
+               <p>The Author <hi>pag.</hi> 98. makes the time of the Witneſſes lying dead for three yeers and a half, to begin on the day when the War began in <hi>Ireland;</hi> which how it will ſtand with what the Author ſayes elſe<g ref="char:EOLhyphen"/>where, I know not, unleſſe we ſhould make the Saints in <hi>England</hi> to ly dead from the firſt day of the War in <hi>Ireland;</hi> which how rationall it is let indifferent men judge; &amp; yet thus it muſt be upon her grounds: for, by the <hi>Witneſſes</hi> ſhe underſtands (at leaſt principally) the Saints in <hi>England;</hi> for thus ſhe explains her ſelf, <hi>pag.</hi> 87. <hi>as the War in</hi> England <hi>and</hi> Ireland <hi>was made by the Beaſt, ſo it was made by him againſt the Wit<g ref="char:EOLhyphen"/>neſſes, the Saints, and precious ones of Jeſus Chriſt; for that which is done againſt the moſt conſiderable number of Saints, is done againſt the whole; as being the way to prevaile over all. Now in</hi> England <hi>there are a more conſide<g ref="char:EOLhyphen"/>rable number of the faithful ſervants and Witneſſes of Ieſus Chriſt, then in any Kingdom in the world,</hi> as one truly ſaid, <hi>England is the richeſt ſhip in the world; for God hath more of thoſe precious jewels in it, then he hath i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a<g ref="char:EOLhyphen"/>ny other Kingdom in the world.</hi>
+               </p>
+            </div>
+            <div n="5" type="exception">
+               <head>5. <hi>Exception.</hi>
+               </head>
+               <p>The Author <hi>pag.</hi> 98. makes the fifth of <hi>April</hi> 1645. to be the day of the Reſurrection of the Witneſſes, wherein ſhe contradicts her own ac<g ref="char:EOLhyphen"/>count, <hi>pag.</hi> 82. but, becauſe this exception hath affinity with the third, I ſhall ſay no more to it but this; that if ſhe had made her day for the Reſurrection of the Witneſſe a yeer later, ſhe would have agreed with her own account, which now ſhe doth not: for, her abated 18. yeeres and almoſt a half, added to <hi>April</hi> the fifth 1646. would have made the day to have faln out in the yeer 1664. as the 1260. added to her 404. makes up the ſame account.</p>
+            </div>
+            <div n="6" type="exception">
+               <head>6. <hi>Exception.</hi>
+               </head>
+               <p>The Author <hi>pag.</hi> 98. makes the time of the Reſurrection of the Witneſſes, and the expiring of the time for propheſying in ſack cloth, to be all one, and ſo the time that the Witneſſes lye dead, muſt be three yeers and an half before the finiſhing of their teſtimony: which, how
+<pb n="11" facs="tcp:117203:7"/>
+contrary it is to the Scripture, will eaſily appear, <hi>Revel</hi> 11.3.7. <hi>I will give power unto my two Witneſſes, and they ſhall propheſie</hi> 1260 <hi>dayes clothed in ſack-cloth, and when they ſhall have finiſhed their teſtimony, the Beaſt that aſcendeth out of the bottomleſſe pit ſhall make war againſt them, and ſhall o<g ref="char:EOLhyphen"/>ver come them, and kill them.</hi> I ſhall here only inſert a paſſage out of <hi>Brightman</hi> on the <hi>Revelations,</hi> printed in the yeer 1644. his words in <hi>pag.</hi> 372. of that impreſſion, are theſe, <hi>Thi time of three dayes and a half beginneth not before the</hi> 1260. <hi>dayes be ended; for ſo it is ſaid afore, and when they have finiſhed. Beſides, the Prophets lay kild and unburied for theſe three dayes and a half, but the time of the</hi> 1260. <hi>dayes is the time of their propheſying in ſack-cloth;</hi> ſo that they can by no means be referred to the ſame time.</p>
+            </div>
+            <div n="7" type="exception">
+               <head>7. <hi>Exception.</hi>
+               </head>
+               <p>The Author <hi>pag.</hi> 99. makes the Reſurrection of the Witneſſes to be an army buſineſſe, which I ſee no reaſon for, but rather reaſons againſt it; which I ſhall briefly propoſe in behalf of my Exception.</p>
+               <p>My firſt reaſon is taken from the context in <hi>Revel.</hi> 11. when the Wit<g ref="char:EOLhyphen"/>neſſes are in ſlaying, the ſlaying of them indeed is deſcribed as an army buſineſſe, <hi>ver.</hi> 7. in theſe words, <hi>ſhall make war againſt them, and ſhall over<g ref="char:EOLhyphen"/>come them, and kill them:</hi> but when the holy Ghoſt ſpeaks of the Reſur<g ref="char:EOLhyphen"/>rection of the Witneſſes, it is in another ſtrain, <hi>ver.</hi> 11. <hi>and after</hi> 3. <hi>dayes and an half, the ſpirit of life from God entred into them, and they ſtood upon their feet, and great fear fell upon them that ſaw them.</hi> Here is no warlike word uſed; &amp; though it is ſaid that a great fear fell upon others at the Reſurrection of the Witneſſes; yet it is not ſaid it fell upon the Beaſt that ſlew them, or upon their enemies; but it is ſaid indefinitely, <hi>it fill upon them that ſaw them:</hi> for ſuch an aſtoniſhing work of God as that in <hi>Ezek.</hi> 37. (whence the phraſes are taken) might cauſe a fear, though of a dif<g ref="char:EOLhyphen"/>ferent kind, to fall upon all the ſpectators both friends and enemies: and though it may be granted, that a ſingular fear might fall upon their e<g ref="char:EOLhyphen"/>nemies, in reſpect of their great guilt in ſlaying of them, and the unex<g ref="char:EOLhyphen"/>pected check to their inſulting over them when they were ſlaine; yet this fear might well be without an army, by ſome ſpeciall preſence of God ſhining forth in the Witneſſes. As after that <hi>Herod</hi> had beheaded <hi>John</hi> the Baptiſt, and Chriſts fame was ſpread, though Chriſt had no army with him, <hi>Herod</hi> was perplexed: and why did he fear? was it not becauſe it was ſaid by ſome, that <hi>John</hi> the Baptiſt was riſen from the dead? by ſome, that <hi>Elias;</hi> by ſome, that one of the old Prophets? as you may read <hi>Luke c.</hi> 9. <hi>v.</hi> 7, 8, 9.</p>
+               <p>My ſecond reaſon is taken from the deſcription of the Witneſſes, in
+<pb n="12" facs="tcp:117203:8"/>
+                  <hi>Revel.</hi> 11. <hi>v.</hi> 4. under the phraſe of <hi>Candleſticks,</hi> and <hi>Olive-trees;</hi> the ex<g ref="char:EOLhyphen"/>poſition of both which might be taken from <hi>Zach.</hi> 4. where we ſhall finde expreſſions rather excluding then implying the aid of an Army; that <hi>Zach.</hi> 4. doth explain the later expreſſion, is acknowledged by <hi>M. Cary pag.</hi> 69. and <hi>pag.</hi> 70. in theſe words, <hi>Theſe two Witneſſes are the two Olive-trees;</hi> in that they are ſaid to be (the) two Olive-trees, it im<g ref="char:EOLhyphen"/>plyes it hath reference to ſome paſſages of Scripture, wherein there is a former mention of them. Now the place where they are mentioned is <hi>Ezek</hi> 4. ſo that <hi>Zechariah</hi> doth propheſie of theſe two Wineſſes, un<g ref="char:EOLhyphen"/>der the expreſſion of two Olive-trees. Now in that place, <hi>Zach.</hi> 4.4. we finde that the Prophet doth ask the Angel, <hi>what theſe be;</hi> and then the Angel makes this anſwer, <hi>this is the word of the Lord unto</hi> Zerubbabel, ſaying, <hi>not by might, nor by power, but by my ſpirit, ſaith the Lord of hoſts; Who art thou O great mountain? before</hi> Zerubbabel <hi>thou ſhalt become a plaine, and he ſhall bring forth the head ſtone thereof with ſhoutings, crying, grace, grace unto it.</hi> In this text thus cited by <hi>M. Cary,</hi> obſerve, how expreſly the aid of armies is excluded by a double barre, <hi>ver.</hi> 6. in theſe words, <hi>not by might, nor by power;</hi> where, by the way, it is obſervable, that the marginall note in our Bibles, inſteed of <hi>might,</hi> reads <hi>army.</hi>
+               </p>
+            </div>
+            <div n="8" type="exception">
+               <head>8. <hi>Exception.</hi>
+               </head>
+               <p>The Author <hi>pag.</hi> 99. for the reaſon why the fifth day of <hi>April</hi> 1645. ſhould be the day of the Witneſſes Reſurrection, layes down this; <hi>that the Parliaments army being new modelled, began then to march againſt the enemy,</hi> to which I have four things to ſay.</p>
+               <p n="1">1. That the Author leaves us in a great miſt, to finde out ſo glorious a day as the Reſurrection of the Witneſſes; for ſhe tels us only in general of the new modeld armies beginning to march againſt the enemies; but whether the new model were then compleated, or but begun, ſhe tels us not; nor yet whether the maine body of the army began then to march, or ſome ſmall parts of it; nor, whether that part of the army which then began to march (if indeed any did then march) were at that time new modeld or not, nor whence they marcht that day, nor whether they marcht that day, nor upon what ſervice, nor under what ſpeciall Leader; nor any the like circumſtances, by which the truth of what ſhe affirmes might be tried.</p>
+               <p n="2">2. Suppoſe it could appear by credible teſtimony, that ſome part of the army did march on <hi>April</hi> the fifth 1645. and that that party did march againſt an enemy, and that that party was new modeld before its
+<pb n="13" facs="tcp:117203:8"/>
+march, and that they were the firſt forces that did march being new modeld: though all this ſhould be ſuppoſed to be true; yet this would be but a poor matter to make a day of Reſurrection: and I appeale to any indifferent perſons, whoſe judgements are for a martiall Reſurre<g ref="char:EOLhyphen"/>ction; whether many, and many paſſages might not be obſerved, both in this army ſince the new modelling of it, and in the Parliaments army before the new modelling, and in other armies in former ages, which might with better colour lay claime to the dignity of uſhering in the Witneſſes Reſurrection.</p>
+               <p n="3">3. I have with much inquiſitiveneſſe endeavoured to finde out what particular paſſage might cauſe the 5 of <hi>April</hi> to be fingled out as the day of the Witneſſes Reſurrection, rather then any other day in <hi>April,</hi> or any other day in the whole yeere: and I can finde none beſides <hi>M. Ca<g ref="char:EOLhyphen"/>ry</hi> that makes any mention of any paſſage in the army as on that day. I have, by me, three ſeverall Liſts of paſſages of the army in that yeere, and none of them doth mention the fifth of <hi>April,</hi> or ſo much as intimate any action, march, or motion, on that day. I have peruſed many other printed Liſts, and I finde not that day at all taken notice of in any of them; but other dayes in that moneth I finde mentioned with remark<g ref="char:EOLhyphen"/>able paſſages on them. And here I ſhall leave it to the Reader to judge, how likely it is that the Reſurrection of the Witneſſes, which ſhould fill the ſpectators with fear, could paſſe undiſcerned by thoſe, who have made it their work to obſerve the footſteps of Providence in the army, if indeed it were an army providence, and at that time, when the obſervations of ſo many were at work about the new model.</p>
+               <p n="4">4. Maſter <hi>Sprigge,</hi> a man unlikely to deprive the army of any deſerved honour, and likely to know more of the paſſages of the army then <hi>M. Cary:</hi> in his large book called <hi>Englands Recovery;</hi> being the Hiſtory of the motions, actions and ſucceſſes of the army under the immediate conduct of his Excellency (then) Sir <hi>Thomas Fairfax,</hi> in that Treatiſe makes no mention (that I could finde) of that fifth of <hi>April,</hi> nor inti<g ref="char:EOLhyphen"/>mates any thing ſutable to what <hi>M. Cary</hi> relates in order thereto; but rather the contrary, ſo far as I can judge from theſe enſuing paſſages, which I ſhall give you in his owne words, <hi>Sir</hi> Thomas Fairfax <hi>having with much modeſty accepted this command, immediatly applies himſelf to the diſcharge of it; it was the firſt of</hi> April <hi>ere his Commiſſion was granted, and the third of</hi> April <hi>he went from</hi> London <hi>to</hi> Windſor, <hi>to ſee and perſonally to aſſiſt in the framing of a new army. His Excellency continued at</hi> Windſor <hi>from the third to the laſt of</hi> April <hi>in that worke, the difficulty whereof might well account for this time, if it had been a longer ſpace; conſidering that
+<pb n="14" facs="tcp:117203:9"/>
+beſides the fitting of the trains for the field, and the attendance of the <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> from</hi> London, <hi>which with the old that continued, were to make up the <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ſigned number, an entire new form was to be introduced into the whole army the forces that remained of the whole army being not only to be recruited, bu<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> to be reduced into new companies and regiments, as if they had been new ra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<g ref="char:EOLunhyphen"/>ed,</hi> pag. 9. and afterwards <hi>pag.</hi> 15. <hi>the firſt of</hi> May <hi>his Excellency began hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> march with the whole army, in this firſt march of the new model, &amp;c.</hi>
+               </p>
+               <p>Now Reader weigh impartially what thou haſt read, and ſo I leav<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it to thine own judgment to determine, whether the pretended demon<g ref="char:EOLunhyphen"/>ſtration of <hi>M. Cary</hi> be more then a partiall fanſie, and whether her ſin<g ref="char:EOLhyphen"/>gle opinion be not maintained with more then ſingle miſtakes, if thou art one who wilt own the truth in theſe times; Farewell, and pray for the faith and patience of the Saints.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <dateline>
+                  <date>April 11. 1649.</date>
+               </dateline>
+               <signed>JO. DOWNAME.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
